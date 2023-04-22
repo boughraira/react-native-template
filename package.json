@@ -20,7 +20,7 @@
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-bootsplash": "^3.1.2",
+    "react-native-bootsplash": "^4.6.0",
     "react-native-config": "^1.4.0",
     "react-native-gesture-handler": "^1.9.0",
     "react-native-localization": "^2.1.6",
